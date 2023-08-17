@@ -11,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; 
-- 🌐 &#160; 
+- 💻 &#160; ![Spring](https://img.shields.io/badge/Spring-blue?logo=dependabot&logoColor=red) ![MyBatis](https://img.shields.io/badge/MyBatis-Green?logo=dependabot&logoColor=%2300FF00) ![SpringBoot](https://img.shields.io/badge/SpringBoot-yellow?logo=dependabot&logoColor=%23FFFF00
+)
+- 🌐 &#160; ![Redis](https://img.shields.io/badge/Redis-00CD00?logo=bitcoin) 
 - 🛢 &#160; 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
