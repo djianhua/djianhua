@@ -12,7 +12,7 @@
 ![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=djianhua&show_icons=true&theme=radical)
 
 ### 关于我
-- [技术笔记](https://djianhua.top/)
+- [技术笔记](http://djianhua.top/)
 - [csdn](https://blog.csdn.net/qq_59957669?type=blog)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
